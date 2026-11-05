@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-contact-center-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-contact-center",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-contact-center-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/contact-center.md",
+  "presentationPlan": "projects/crm/nextjs/contact-center.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
